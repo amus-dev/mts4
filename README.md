@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Express JS**
 
-- 💬 Ask me about **React, PHP, WordPress, JavaScript**
+- 💬 Ask me about **React, React Native, PHP, WordPress, JavaScript**
 
 - 📫 You can write to me **contacto@amusdev.com**
 
